@@ -6,7 +6,7 @@
   "scripts": {
     "start": "npm run build:css && serve -s dist",
     "build": "vite build",
-    "build:css": "tailwindcss -i ./src/input.css -o ./dist/output.css --minify",
+    "build:css": "tailwindcss -i ./src/App.css -o ./dist/output.css --minify",
     "dev": "vite",
     "preview": "vite preview"
   },
