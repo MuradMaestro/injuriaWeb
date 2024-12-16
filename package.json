@@ -4,8 +4,9 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start": "serve -s dist",
+    "start": "npm run build:css && serve -s dist",
     "build": "vite build",
+    "build:css": "tailwindcss -i ./src/input.css -o ./dist/output.css --minify",
     "dev": "vite",
     "preview": "vite preview"
   },
