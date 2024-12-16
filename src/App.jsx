@@ -80,7 +80,6 @@ function App() {
                 </p>
               </div>
 
-              <div className=" flex items-center gap-3">
                 <div className=" flex items-center gap-3">
                   <div className=" w-6 h-6 md:w-8 md:h-8">
                     <svg
@@ -97,6 +96,7 @@ function App() {
                     İnjuria Hüquq Mərkəzi
                   </p>
                 </div>
+              <div className=" flex items-center gap-3">
 
                 <div className=" w-6 h-6 md:w-8 md:h-8">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
