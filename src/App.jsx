@@ -22,7 +22,7 @@ function App() {
             <div className="flex flex-col items-center justify-center">
               <Count />
               <h5 className="font-semibold font-nunito text-[18px] md:text-[24px] pt-2 md:pt-4">
-                Şənbə, 21 Dekabr
+                Çərşənbə axşamı, 31 Dekabr
               </h5>
             </div>
           </div>
