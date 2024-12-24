@@ -4,11 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start": "npm run build:tailwind && serve -s dist && npm run build:css ",
-    "build": "vite build",
-    "build:tailwind": "npm install tailwindcss postcss autoprefixer --save",
-    "build:css": "tailwindcss -i ./src/App.css -o ./dist/output.css --minify",
     "dev": "vite",
+    "build": "vite build",
+    "start": "serve -s dist",
+    "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {

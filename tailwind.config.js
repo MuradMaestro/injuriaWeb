@@ -1,6 +1,6 @@
-module.exports = {
+export default {
   content: [
-    "./src/**/*.{html,js,jsx,ts,tsx}",
+    "./src/**/*.{js,jsx,ts,tsx}","./public/**/*.html",
   ],
   theme: {
     extend: {
