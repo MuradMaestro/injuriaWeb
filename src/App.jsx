@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import logo from "../public/images/logo.png";
+import logo from "../src/assets/images/images.jpeg";
 import Count from "../src/Count";
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
               <img
                 src={logo}
                 alt=""
-                className="w-[25px] h-[42px] md:w-[50px] md:h-[83px]"
+                className="w-12 md:w-20  "
               />
               {/* <img src={injuria} alt="" className="w-[85px] h-[17px]" /> */}
               <h1 className="font-playfair text-[28px] md:text-[48px]">
