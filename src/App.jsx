@@ -16,13 +16,13 @@ function App() {
               />
               {/* <img src={injuria} alt="" className="w-[85px] h-[17px]" /> */}
               <h1 className="font-playfair text-[28px] md:text-[48px]">
-                INJURIA
+                Maestro Studio
               </h1>
             </div>
             <div className="flex flex-col items-center justify-center">
               <Count />
               <h5 className="font-semibold font-nunito text-[18px] md:text-[24px] pt-2 md:pt-4">
-                 Bazar Ertəsi, 27 Yanvar
+                 Cümə axşamı, 1 May
               </h5>
             </div>
           </div>
@@ -37,7 +37,7 @@ function App() {
               Əlaqə vasitələrimiz:
             </h4>
 
-            <div className=" flex flex-col md:flex-row md:flex-wrap items-center justify-center gap-6 md:gap-8 md:gap-y-[40px]">
+            <div className=" flex flex-col md:flex-row md:flex-wrap items-center justify-center gap-6 md:gap-12 md:gap-y-[40px]">
               <div className=" flex gap-3">
                 <div className=" w-6 h-6 md:w-8 md:h-8">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
@@ -48,7 +48,7 @@ function App() {
                   </svg>
                 </div>
                 <p className="font-nunito font-semibold text-[12px] md:text-[14px]">
-                  İnjuria Hüquq
+                  Maestro Studio
                 </p>
               </div>
 
@@ -62,23 +62,11 @@ function App() {
                   </svg>
                 </div>
                 <p className="font-nunito font-semibold text-[12px] md:text-[14px]">
-                  @injuria_huquq
+                  @maestrostudio_
                 </p>
               </div>
 
-              <div className=" flex items-center gap-3">
-                <div className=" w-6 h-6 md:w-8 md:h-8">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-                    <path
-                      fill="#252525"
-                      d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"
-                    />
-                  </svg>
-                </div>
-                <p className="font-nunito font-semibold text-[12px] md:text-[14px]">
-                  @injuria_huquq
-                </p>
-              </div>
+              
 
                 <div className=" flex items-center gap-3">
                   <div className=" w-6 h-6 md:w-8 md:h-8">
@@ -93,23 +81,10 @@ function App() {
                     </svg>
                   </div>
                   <p className="font-nunito font-semibold text-[12px] md:text-[14px]">
-                    İnjuria Hüquq Mərkəzi
+                    Maestro Studio
                   </p>
                 </div>
-              <div className=" flex items-center gap-3">
-
-                <div className=" w-6 h-6 md:w-8 md:h-8">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
-                    <path
-                      fill="#252525"
-                      d="M549.7 124.1c-6.3-23.7-24.8-42.3-48.3-48.6C458.8 64 288 64 288 64S117.2 64 74.6 75.5c-23.5 6.3-42 24.9-48.3 48.6-11.4 42.9-11.4 132.3-11.4 132.3s0 89.4 11.4 132.3c6.3 23.7 24.8 41.5 48.3 47.8C117.2 448 288 448 288 448s170.8 0 213.4-11.5c23.5-6.3 42-24.2 48.3-47.8 11.4-42.9 11.4-132.3 11.4-132.3s0-89.4-11.4-132.3zm-317.5 213.5V175.2l142.7 81.2-142.7 81.2z"
-                    />
-                  </svg>
-                </div>
-                <p className="font-nunito font-semibold text-[12px] md:text-[14px]">
-                  İnjuria Hüquq
-                </p>
-              </div>
+            
 
               <div className=" flex items-center gap-3">
                 <div className=" w-6 h-6 md:w-8 md:h-8">
@@ -121,7 +96,7 @@ function App() {
                   </svg>
                 </div>
                 <p className="font-nunito font-semibold text-[12px] md:text-[14px]">
-                  0124041352
+                +994 50 299 84 90
                 </p>
               </div>
 
@@ -135,7 +110,7 @@ function App() {
                   </svg>
                 </div>
                 <p className="font-nunito font-semibold text-[12px] md:text-[14px]">
-                  Bakı şəhəri, Tİblisi prospekti, Ask plaza
+                  Bakı şəhəri, Xətai r-nu, Mərkəzi bulvar 4
                 </p>
               </div>
 
@@ -149,7 +124,7 @@ function App() {
                   </svg>
                 </div>
                 <p className="font-nunito font-semibold text-[12px] md:text-[14px]">
-                  info@injuria.az
+                  info@maestro.st
                 </p>
               </div>
             </div>
